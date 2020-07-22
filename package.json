@@ -1,0 +1,13 @@
+{
+  "name": "unitymodule",
+  "version": "1.0.0",
+  "displayName": "UnityModule",
+  "author": {
+    "name": "dante",
+    "email": "are2341@nate.com"
+  },
+  "dependencies": {
+    "unitymodule.common": "https://gitlab.com/9tap.repository/unitymodule_common_client.git#v1.0.0",
+    "unitymodule.study": "https://gitlab.com/dante.distribution.individual/unitymodule_study_client.git#v1.0.0"
+  }
+}
