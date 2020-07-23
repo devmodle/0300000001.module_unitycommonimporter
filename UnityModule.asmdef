@@ -1,8 +1,9 @@
 {
     "name": "UnityModule",
     "references": [
-        "UnityModule.Common",
-        "UnityModule.Study"
+        "UnityModule.Common.Editor",
+        "UnityModule.Common.Runtime",
+        "UnityModule.Study.Runtime"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
