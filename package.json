@@ -7,6 +7,6 @@
     "email": "are2341@nate.com"
   },
   "dependencies": {
-    "unitymodule.common": "https://sd.lee:NSString132!@gitlab.com/9tapmodule.repository/unitymodule_common_client.git#1.1.0"
+    "unitymodule.common": "https://sd.lee:NSString132!@gitlab.com/9tapmodule.repository/unitymodule_common_client.git#1.1.1"
   }
 }
