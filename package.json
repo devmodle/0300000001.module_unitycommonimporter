@@ -1,12 +1,12 @@
 {
   "name": "module.unitycommonimporter",
-  "version": "2.3.11",
+  "version": "2.3.12",
   "displayName": "Module.UnityCommonImporter",
   "author": {
     "name": "dante",
     "email": "are2341@nate.com"
   },
   "dependencies": {
-    "module.unitycommon": "https://9tap:NT9studio!@gitlab.com/9tapmodule.repository/0300000001.module_unitycommon_client.git#2.3.11"
+    "module.unitycommon": "https://9tap:NT9studio!@gitlab.com/9tapmodule.repository/0300000001.module_unitycommon_client.git#2.3.12"
   }
 }
