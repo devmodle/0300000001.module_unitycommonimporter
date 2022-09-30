@@ -1,12 +1,12 @@
 {
   "name": "module.unitycommonimporter",
-  "version": "2.8.0",
+  "version": "2.8.1",
   "displayName": "Module.UnityCommonImporter",
   "author": {
     "name": "dante",
     "email": "are2341@nate.com"
   },
   "dependencies": {
-    "module.unitycommon": "https://studio%40ninetap.com:glpat-MVgJsJw488eXxUf3xMsa@gitlab.com/9tapmodule.repository/0300000001.module_unitycommon_client.git#2.8.0"
+    "module.unitycommon": "https://studio%40ninetap.com:glpat-MVgJsJw488eXxUf3xMsa@gitlab.com/9tapmodule.repository/0300000001.module_unitycommon_client.git#2.8.1"
   }
 }
