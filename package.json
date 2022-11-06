@@ -7,5 +7,6 @@
     "email": "are2341@nate.com"
   },
   "dependencies": {
+    "module.unitycommon": "https://gitlab.com/9tapmodule.repository/0300000001.module_unitycommon_client.git#2.8.2"
   }
 }
