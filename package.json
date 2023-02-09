@@ -1,12 +1,12 @@
 {
   "name": "module.unitycommonimporter",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "displayName": "Module.UnityCommonImporter",
   "author": {
     "name": "dante",
     "email": "are2341@nate.com"
   },
   "dependencies": {
-    "module.unitycommon": "https://gitlab.com/9tapmodule.repository/0300000001.module_unitycommon.git#3.0.2"
+    "module.unitycommon": "https://gitlab.com/9tapmodule.repository/0300000001.module_unitycommon.git#3.0.3"
   }
 }
