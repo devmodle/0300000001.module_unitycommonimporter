@@ -1,0 +1,12 @@
+{
+  "name": "module.unitycommonimporter",
+  "version": "3.1.1",
+  "displayName": "Module.UnityCommonImporter",
+  "author": {
+    "name": "junny",
+    "email": "junny@modle.io"
+  },
+  "dependencies": {
+    "module.unitycommon": "https://github.com/devmodle/0300000001.module_unitycommon.git"
+  }
+}
