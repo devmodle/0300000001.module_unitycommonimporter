@@ -7,6 +7,6 @@
     "email": "junny@modle.io"
   },
   "dependencies": {
-    "module.unitycommon": "https://github.com/devmodle/0300000001.module_unitycommon.git"
+    "module.unitycommon": "https://github.com/devmodle/0300000001.module_unitycommon.git#v1.0.0"
   }
 }
