@@ -1,12 +1,12 @@
 {
   "name": "module.unitycommonimporter",
-  "version": "4.1.0",
+  "version": "4.1.1",
   "displayName": "Module.UnityCommonImporter",
   "author": {
     "name": "dante",
     "email": "are2341@nate.com"
   },
   "dependencies": {
-    "module.unitycommon": "https://github.com/devmodle/0300000001.module_unitycommon.git#4.1.0"
+    "module.unitycommon": "https://github.com/devmodle/0300000001.module_unitycommon.git#4.1.1"
   }
 }
